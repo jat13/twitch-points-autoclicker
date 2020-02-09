@@ -1,2 +1,2 @@
 # twitch-points-autoclicker
-Used to claim twitch channel points
+Used to claim twitch channel special bonuses automatically
