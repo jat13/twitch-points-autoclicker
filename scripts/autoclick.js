@@ -1,5 +1,5 @@
 function click(target){
-	let targetElement = target.querySelector('.tw-interactive');
+	let targetElement = target.querySelector('.tw-button');
 	if(targetElement != null){
 		console.log("Bonus box clicked")
 		targetElement.click();
